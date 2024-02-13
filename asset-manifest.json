@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kulikov/static/css/main.e7959858.css",
+    "main.js": "/kulikov/static/js/main.1909b8fb.js",
+    "static/js/787.28cb0dcd.chunk.js": "/kulikov/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/kulikov/index.html",
+    "main.e7959858.css.map": "/kulikov/static/css/main.e7959858.css.map",
+    "main.1909b8fb.js.map": "/kulikov/static/js/main.1909b8fb.js.map",
+    "787.28cb0dcd.chunk.js.map": "/kulikov/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7959858.css",
+    "static/js/main.1909b8fb.js"
+  ]
+}
