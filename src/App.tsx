@@ -14,8 +14,8 @@ const App = () => {
 			<Header />
 			
 			<Routes>
-				<Route path='kulikov/' element={<MainPage />}/>
-				<Route path='kulikov/game' element={<GamePage />}/>
+				<Route path='/' element={<MainPage />}/>
+				<Route path='/game' element={<GamePage />}/>
 				<Route path='*' element={<NotFoundPage />}/>
 			</Routes>
     </div>
