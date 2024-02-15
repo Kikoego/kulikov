@@ -47,7 +47,7 @@
 .available {
 	height: 12px;
 	width: 12px;
-	border-radius: 50%;
+	/*border-radius: 50%;*/
 	-webkit-border-radius: 50%;
 	-moz-border-radius: 50%;
 	-khtml-border-radius: 50%;
