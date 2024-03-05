@@ -2,7 +2,7 @@
 
 Используеться TS, React, Tailwind, CSS
 
-Хостинг - github pages: https://kikoego.github.io/kulikov/
+Ссылка для просмотра - github pages: https://kikoego.github.io/kulikov/
 
 Документация по компонентам:
 
